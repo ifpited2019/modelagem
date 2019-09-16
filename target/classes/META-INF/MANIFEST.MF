@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: modelagem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mayllonveras
+Implementation-Vendor-Id: com.ifpi.ted2019
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/modelagem
+Created-By: Maven Integration for Eclipse
+
