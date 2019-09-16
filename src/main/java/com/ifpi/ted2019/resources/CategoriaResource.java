@@ -14,7 +14,7 @@ import com.ifpi.ted2019.domain.Categoria;
 import com.ifpi.ted2019.services.CategoriaService;
 
 @RestController
-@RequestMapping(value = "/categorias")
+@RequestMapping(value = "/categoria")
 public class CategoriaResource {
 	@Autowired
 	private CategoriaService service;
